@@ -4,4 +4,10 @@
             <img src="/pix/{who}.jpg" title="{who} plays {role}"/>
         </a>
     </div>
+    <br>
+    Actor: {who}
+    <br>
+    Role: {role}
+
+    
 </div>

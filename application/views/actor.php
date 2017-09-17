@@ -8,6 +8,8 @@
     Actor: {who}
     <br>
     Role: {role}
+    <br>
+    Quote: {what}
 
     
 </div>
